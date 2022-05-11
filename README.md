@@ -1,6 +1,8 @@
 # NodejsWEBSERVICE
 B2B Code Json format
 
+USE FILES app.js AND routers.js
+
 
 
 For communication with Nodejs webservice we will need a library which is axios, 
