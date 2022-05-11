@@ -1,7 +1,7 @@
 # NodejsWEBSERVICE
 B2B Code Json format
 
-USE FILES app.js AND routers.js
+USE FILES app.js , package.json AND routers.js
 
 
 
