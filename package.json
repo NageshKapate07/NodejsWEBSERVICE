@@ -1,0 +1,20 @@
+{
+    "name": "expresscrudapplication",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "dependencies": {
+        "body-parser": "^1.10.1",
+        "jade": "^1.8.2",
+        "mongoose": "^4.2.8",
+        "mongodb": "^2.1.16",
+        "express": "^4.10.7",
+        "moment": "^2.9.0",
+        "nodemon": "^1.2.1"
+    },
+    "author": "",
+    "license": "ISC"
+}
